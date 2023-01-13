@@ -29,7 +29,7 @@ def main():
     elif index < 0:
         print("Before Grade 1")
 
-    #otherwise out the grade wich equal to the index
+    #otherwise, output the grade which is equal to the index
     else:
         print("Grade ", round(index))
 
@@ -42,7 +42,7 @@ def count_letters(text):
         #if the character is alphabetic, increment letter variable by 1
         if character.isalpha():
             letter += 1
-    #return the number of letter
+    #return the number of letters
     return letter
 
 # Implementation of the count_words function
@@ -68,11 +68,11 @@ def count_sentence(text):
     #return the number of sentences
     return sentence
 
-# Implement a function that calculates L
+# Implement a function that calculates the average letter per 100 words
 def Avgletterper100(letter,  word):
     return letter / word * 100
 
-# Implement a function that calculates S
+# Implement a function that calculates the average sentences per 100cwords
 def Avgsentencesper100(sentence, word):
     return sentence / word * 100
 
