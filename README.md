@@ -25,7 +25,7 @@ For example:
 ## 🚀 How to Run
 **1. Clone the repository**
 
-```git clone https://github.com/your-username/readability-analyzer.git```
+```git clone https://github.com/david24339/Readability.git```
 
 ```cd readability-analyzer```
 
