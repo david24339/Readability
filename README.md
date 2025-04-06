@@ -30,4 +30,5 @@ For example:
 ```cd readability-analyzer```
 
 **2. Run the program**
+
 ```python3 readability.py```
