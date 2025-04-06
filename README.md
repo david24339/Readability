@@ -14,7 +14,7 @@ For example:
 
 - 📖 Determines readability using the Coleman-Liau index
 - 🧾 Analyzes user-input text directly from the terminal
-- 📊 Outputs the estimated U.S. grade level
+- 📊 Outputs the estimated grade level
 - 🧠 Great beginner-friendly example of text analysis in Python
 
 
